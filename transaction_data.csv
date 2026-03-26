@@ -1,0 +1,2 @@
+simulation_mode,ticks,sender_id,sender_type,receiver_id,receiver_type,transfer_type,transfer_amount,transfer_price,resource_type,resource_quality,transfer_efficiency,transfer_date
+0,15,4,recyclers,2,recyclers,resource,1,0.67,shared,0.7,0.8,15
