@@ -1,6 +1,2 @@
 # RECYCL-D-25-07218
-"Large Language Model Integration in Agent-Based Modeling for the Simulation and Recycling System"
-
-Abstract<img width="468" height="86" alt="image" src="https://github.com/user-attachments/assets/69536656-a8b0-47b9-9668-473ebe03cf14" />
-
-This study LLM-augmented agent-based simulation to investigate how generative decision mechanisms influence recycling dynamics in circular economy systems. Within a NetLogo Python hybrid framework, GPT-based agents are compared with deterministic rule-based agents under controlled experimental scenarios. Results show that GPT-based agents achieve higher decision validity, improved recycling rates, reduced pollution levels, and enhanced cooperative stability. Statistical analysis across simulation runs confirms significant differences in key sustainability indicators. Rather than implying superior intelligence, the findings suggest that prompt-mediated generative decision synthesis functions as an alternative implementation mechanism for navigating complex conditional decision spaces. While trade-offs related to computational cost and reasoning stability remain, the results demonstrate that LLM-augmented agents can support adaptive and sustainability-oriented system dynamics under structured constraints.<img width="468" height="349" alt="image" src="https://github.com/user-attachments/assets/1d87af68-7b88-46b3-99e1-f1dd26c886ba" />
+Title "Large Language Model Integration in Agent-Based Modeling for the Simulation and Recycling System"
